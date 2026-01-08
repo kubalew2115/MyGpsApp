@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/mappe"
+        android:title="Mapa" />
+
+    <item
+        android:id="@+id/nav_weather"
+        android:icon="@drawable/cloudy"
+        android:title="Pogoda" />
+
+    <group android:id="@+id/group_actions">
+        <item
+            android:id="@+id/nav_send_sms"
+            android:icon="@drawable/chatting"
+            android:title="Wyślij SMS" />
+
+        <item
+            android:id="@+id/nav_save_map"
+            android:icon="@drawable/diskette"
+            android:title="Zapisz mapę" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/share"
+            android:title="Udostępnij" />
+    </group>
+
+</menu>

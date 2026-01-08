@@ -1,0 +1,10 @@
+<resources>
+    <string name="navigation_drawer_open">Otwórz nawigację</string>
+    <string name="navigation_drawer_close">Zamknij nawigację</string>
+
+    <string name="nav_map">Mapa</string>
+    <string name="nav_weather">Pogoda</string>
+    <string name="nav_send_sms">Wyślij SMS</string>
+    <string name="nav_save_map">Zapisz mapę</string>
+    <string name="nav_share">Udostępnij</string>
+</resources>
